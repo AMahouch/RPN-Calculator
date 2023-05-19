@@ -5,7 +5,7 @@
 
 import os
 
-file = open("input_RPN.txt", "r")
+file = open("RPN_Input.txt", "r")
 lines = file.read().splitlines()
 
 for line in lines:

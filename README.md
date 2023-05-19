@@ -1,2 +1,2 @@
 # RPN-Calculator
-Reverse Polish Notation Calculator in Javascript
+Reverse Polish Notation Calculator in Python
